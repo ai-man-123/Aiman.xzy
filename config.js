@@ -1,6 +1,6 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['380944182435', '60102810046']
+global.owner = ['62882003806038', '60102810046']
 global.autoread = false
 global.selfmode = false
 global.thumb = './thumb/itsuki.jpg'
